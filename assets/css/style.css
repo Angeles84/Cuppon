@@ -1,0 +1,85 @@
+body {
+  font-family: font-family: 'Roboto', sans-serif;
+}
+
+.verde {
+  background-color: #28A745;
+  color: #fff;
+}
+
+nav a img {
+ height: 2rem;
+}
+
+ul {
+ list-style-type: none;
+}
+
+ul li {
+ display: inline-block;
+}
+
+h5 {
+  font-size: 1.5rem;
+  font-weight: 300;
+  color: #212529;
+
+}
+ .lugar {
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: #707070;
+  margin-bottom: 0;
+ }
+
+.valor {
+  font-weight: 300;
+  font-size: 1.3rem;
+  color: #707070;
+}
+
+.adress {
+ color: #707070;
+ font-weight: 300;
+ font-size: 0.9rem;
+}
+
+.precio {
+  color: #28A745;
+  font-weight: 500;
+  font-size: 1.5rem;
+
+}
+
+.negro {
+  height: 2.4rem;
+}
+
+.marca {
+color: #707070;
+font-size: 1.3rem;
+font-weight: 300;
+}
+
+h4 {
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.form-control {
+  color: #707070;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+.btn {
+  background-color: #F8F9FA;
+  color: #212529;
+  border-color: #DDDDDD;
+  font-weight: 500;
+}
+
+ .borde {
+ border-color: #DDDDDD;
+ }
